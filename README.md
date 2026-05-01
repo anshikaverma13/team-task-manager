@@ -1,29 +1,63 @@
-# Team Task Manager
+# 🚀 Team Task Manager
 
-## 🚀 Live Demo
-https://team-task-manager-eight-omega.vercel.app/
+A full-stack web application to manage projects, assign tasks, and track progress with role-based access control (Admin / Member).
 
-## 📌 Features
-- User Authentication (Login/Register)
-- Create Projects
-- Assign Tasks
-- Task Status (Todo / In Progress / Done)
-- Dashboard with Charts
+---
+
+## 🌐 Live Demo
+(https://team-task-manager-eight-omega.vercel.app/)
+
+---
+
+## 📦 GitHub Repository
+https://github.com/anshikaverma13/team-task-manager
+
+---
+
+## 📌 Overview
+
+This application helps teams collaborate efficiently by organizing work into projects and tasks. Users can assign tasks, update their status, and monitor progress through a dashboard.
+
+---
+
+## ✨ Features
+
+- 🔐 User Authentication (Signup / Login)
+- 👥 Role-Based Access (Admin / Member)
+- 📁 Project Management
+- 📝 Task Creation & Assignment
+- 🔄 Task Status Tracking (Todo / In Progress / Done)
+- 📊 Dashboard with Charts
+- ⏰ Overdue Task Tracking
+
+---
 
 ## 🛠 Tech Stack
-- Frontend: React (Vite, Tailwind)
-- Backend: Node.js, Express
-- Database: MongoDB
-- Deployment: Railway + Vercel
 
-## ⚙️ Setup
+**Frontend**
+- React (Vite)
+- Tailwind CSS
+- Axios
+- Recharts
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB (Mongoose)
+
+**Deployment**
+- Railway (Backend)
+- Vercel (Frontend)
+
+---
+
+## ⚙️ Installation & Setup
 
 ### Backend
+
+```bash
 cd backend
 npm install
 npm start
-
-### Frontend
-cd frontend
-npm install
-npm run dev
