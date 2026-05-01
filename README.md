@@ -5,7 +5,7 @@ A full-stack web application to manage projects, assign tasks, and track progres
 ---
 
 ## 🌐 Live Demo
-(https://team-task-manager-eight-omega.vercel.app/)
+https://team-task-manager-eight-omega.vercel.app/
 
 ---
 
@@ -61,3 +61,11 @@ This application helps teams collaborate efficiently by organizing work into pro
 cd backend
 npm install
 npm start
+
+Test Credentials
+Member
+Email: john@test.com
+Password: 123456
+Admin
+Email: admin@test.com
+Password: 123456
